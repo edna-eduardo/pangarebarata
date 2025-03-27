@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dedetizadora Pangaré Barata</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f8f9fa;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            color: #34495e;
+            font-size: 18px;
+        }
+        .contact-button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #27ae60;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .contact-button:hover {
+            background-color: #219150;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo à Dedetizadora Pangaré Barata</h1>
+        <p>Eliminamos pragas com eficiência e segurança. Atendimento rápido e garantido!</p>
+        <p>Entre em contato conosco:</p>
+        <a href="https://wa.me/5511947586969" class="contact-button" target="_blank">WhatsApp (11 94758-6969)</a>
+        <a href="https://wa.me/551196261026" class="contact-button" target="_blank">WhatsApp (11 96261-026)</a>
+    </div>
+</body>
+</html>
